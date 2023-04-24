@@ -1,0 +1,9 @@
+,,,,,
+ID Data,Demam,Mual-Muntah,Diare,Gemetar,Kondisi
+D1,Tidak,Tidak,Tidak,Tidak,Sehat
+D2,Sedang,Tidak,Tidak,Tidak,Influenza
+D3,Tinggi,Tidak,Tidak,Ya,Influenza
+D4,Tinggi,Ya,Ya,Tidak,Tifus
+D5,Sedang,Tidak,Ya,Tidak,Tifus
+D6,Tidak,Ya,Ya,Tidak,Radang Usus
+D7,Sedang,Ya,Ya,Tidak,Radang Usus
